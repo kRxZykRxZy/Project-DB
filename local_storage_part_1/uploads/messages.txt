@@ -1,2 +1,4 @@
 [2025-11-10T19:01:44.429Z] Admin: Admin liked your project <a href="/projects/#2">Untitled Project</a>
 [2025-11-10T19:01:46.205Z] Admin: Admin favorited your project <a href="/projects/#2">Untitled Project</a>
+[2025-11-10T19:17:17.824Z] Admin: Admin commented on your project <a href="/projects/#2?commentId=83c7de74-ecc9-4850-9811-0f061231c9bd">First Project</a>: Test commemt
+[2025-11-10T19:17:24.374Z] Admin: Admin replied to your comment on <a href="/projects/#2?commentId=83c7de74-ecc9-4850-9811-0f061231c9bd">First Project</a>: I meant comment
