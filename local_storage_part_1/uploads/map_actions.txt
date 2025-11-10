@@ -1,13 +1,9 @@
 {
   "love": {},
-  "favourite": {
-    "2": [
-      "Admin"
-    ]
-  },
+  "favourite": {},
   "views": {
     "2": {
-      "Admin": 1762806456075
+      "Admin": 1762806892165
     }
   }
 }
