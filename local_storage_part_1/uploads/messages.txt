@@ -13,3 +13,5 @@
 [2025-11-11T07:42:20.229Z] Admin: Admin favorited your project <a href="/projects/#2">First Project</a>
 [2025-11-11T07:42:29.900Z] Admin: Admin commented on your project <a href="/projects/#2?commentId=2a33aa05-5ae7-460e-9cb5-3a39a1ab8b0d">First Project</a>: Test
 [2025-11-11T07:47:07.867Z] Admin: Admin replied to your comment on <a href="/projects/#2?commentId=83c7de74-ecc9-4850-9811-0f061231c9bd">First Project</a>: Test again cos idk
+[2025-11-11T16:48:23.127Z] Admin: Admin liked your project <a href="/projects/#2">First Project</a>
+[2025-11-11T16:48:25.389Z] Admin: Admin favorited your project <a href="/projects/#2">First Project</a>
