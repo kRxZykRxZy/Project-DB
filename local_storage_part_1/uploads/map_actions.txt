@@ -1,18 +1,9 @@
 {
-  "love": {
-    "2": [
-      "kRxZy_kRxZy"
-    ]
-  },
-  "favourite": {
-    "2": [
-      "kRxZy_kRxZy"
-    ]
-  },
+  "love": {},
+  "favourite": {},
   "views": {
     "2": {
-      "Admin": 1762806892165,
-      "kRxZy_kRxZy": 1762807399028
+      "Admin": 1762846342587
     }
   }
 }
