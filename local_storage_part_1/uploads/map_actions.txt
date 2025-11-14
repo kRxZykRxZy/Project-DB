@@ -1,7 +1,8 @@
 {
   "love": {
     "1": [
-      "Admin"
+      "Admin",
+      "TestUser"
     ],
     "3": [
       "Admin"
@@ -9,7 +10,8 @@
   },
   "favourite": {
     "1": [
-      "Admin"
+      "Admin",
+      "TestUser"
     ],
     "3": [
       "Admin"
